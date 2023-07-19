@@ -20,8 +20,6 @@ const config = {
     // See https://kit.svelte.dev/docs/adapters for more information about adapters.
     adapter: adapter(),
   },
-
-  trailingSlash: 'always',
 }
 
 export default config
